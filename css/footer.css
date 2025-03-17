@@ -1,0 +1,22 @@
+/* Ensure the body takes up full height of the viewport */
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+/* Flexbox layout for the body */
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* Main content area */
+main {
+    flex-grow: 1;
+}
+
+/* Footer stays at the bottom */
+footer {
+    margin-top: auto;
+}
