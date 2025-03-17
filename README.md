@@ -1,6 +1,6 @@
 # Medbot Web App
 
-![Medbot Logo](image.png)
+![Medbot Logo](medbot.jpeg)
 
 Medbot is an AI-powered medical chatbot designed to assist users by providing medical information, answering health-related queries, and guiding patients based on symptoms. This web application leverages the Gemini API for natural language processing and is built using Flask for the backend and HTML, CSS, Bootstrap, and JavaScript for the frontend.
 
@@ -80,7 +80,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any queries, reach out to **Ali Shan** at:
 - **Email**: Ali3819381@gmail.com
 - **GitHub**: [alishan45](https://github.com/alishan45)
-- **LinkedIn**: (Add your LinkedIn profile link)
 
 ---
 
